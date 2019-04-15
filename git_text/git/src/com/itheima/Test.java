@@ -8,7 +8,5 @@ public class Test {
         System.out.println("11sadsad");
         System.out.println("11sadsad");
     }
-    public void test(){
-        System.out.println(223);
-    }
+
 }
